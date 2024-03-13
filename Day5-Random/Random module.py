@@ -1,0 +1,11 @@
+import random
+a= random.randrange(501, 100000, 2)
+print(a)
+b=random.randint(1,895641200)
+print(b)
+c=random.random()
+print(c)
+d=random.uniform(78,46)
+print(d)
+e=random.expovariate(0.2)
+print(e)
